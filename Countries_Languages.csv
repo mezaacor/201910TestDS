@@ -1,0 +1,250 @@
+,Country,Language
+0,Andorra,Catalan
+1,United Arab Emirates,Arabic
+2,Afghanistan,Pashto
+3,Antigua and Barbuda,English
+4,Anguilla,English
+5,Albania,Albanian
+6,Armenia,Armenian
+7,Angola,Portuguese
+8,Argentina,Spanish
+9,American Samoa,English
+10,Austria,German
+11,Australia,English
+12,Aruba,Dutch
+13,Åland,Swedish
+14,Azerbaijan,Azerbaijani
+15,Bosnia and Herzegovina,Bosnian
+16,Barbados,English
+17,Bangladesh,Bengali
+18,Belgium,Dutch
+19,Burkina Faso,French
+20,Bulgaria,Bulgarian
+21,Bahrain,Arabic
+22,Burundi,French
+23,Benin,French
+24,Saint Barthélemy,French
+25,Bermuda,English
+26,Brunei,Malay
+27,Bolivia,Spanish
+28,Bonaire,Dutch
+29,Brazil,Portuguese
+30,Bahamas,English
+31,Bhutan,Dzongkha
+32,Bouvet Island,Norwegian
+33,Botswana,English
+34,Belarus,Belarusian
+35,Belize,English
+36,Canada,English
+37,Cocos [Keeling] Islands,English
+38,Democratic Republic of the Congo,French
+39,Central African Republic,French
+40,Republic of the Congo,French
+41,Switzerland,German
+42,Ivory Coast,French
+43,Cook Islands,English
+44,Chile,Spanish
+45,Cameroon,English
+46,China,Chinese
+47,Colombia,Spanish
+48,Costa Rica,Spanish
+49,Cuba,Spanish
+50,Cape Verde,Portuguese
+51,Curacao,Dutch
+52,Christmas Island,English
+53,Cyprus,Greek
+54,Czech Republic,Czech
+55,Germany,German
+56,Djibouti,French
+57,Denmark,Danish
+58,Dominica,English
+59,Dominican Republic,Spanish
+60,Algeria,Arabic
+61,Ecuador,Spanish
+62,Estonia,Estonian
+63,Egypt,Arabic
+64,Western Sahara,Spanish
+65,Eritrea,Tigrinya
+66,Spain,Spanish
+67,Ethiopia,Amharic
+68,Finland,Finnish
+69,Fiji,English
+70,Falkland Islands,English
+71,Micronesia,English
+72,Faroe Islands,Faroese
+73,France,French
+74,Gabon,French
+75,United Kingdom,English
+76,Grenada,English
+77,Georgia,Georgian
+78,French Guiana,French
+79,Guernsey,English
+80,Ghana,English
+81,Gibraltar,English
+82,Greenland,Greenlandic
+83,Gambia,English
+84,Guinea,French
+85,Guadeloupe,French
+86,Equatorial Guinea,Spanish
+87,Greece,Greek
+88,South Georgia and the South Sandwich Islands,English
+89,Guatemala,Spanish
+90,Guam,English
+91,Guinea-Bissau,Portuguese
+92,Guyana,English
+93,Hong Kong,Chinese
+94,Heard Island and McDonald Islands,English
+95,Honduras,Spanish
+96,Croatia,Croatian
+97,Haiti,French
+98,Hungary,Hungarian
+99,Indonesia,Indonesian
+100,Ireland,Irish
+101,Israel,Hebrew
+102,Isle of Man,English
+103,India,Hindi
+104,British Indian Ocean Territory,English
+105,Iraq,Arabic
+106,Iran,Persian
+107,Iceland,Icelandic
+108,Italy,Italian
+109,Jersey,English
+110,Jamaica,English
+111,Jordan,Arabic
+112,Japan,Japanese
+113,Kenya,English
+114,Kyrgyzstan,Kirghiz
+115,Cambodia,Cambodian
+116,Kiribati,English
+117,Comoros,Arabic
+118,Saint Kitts and Nevis,English
+119,North Korea,Korean
+120,South Korea,Korean
+121,Kuwait,Arabic
+122,Cayman Islands,English
+123,Kazakhstan,Kazakh
+124,Laos,Laotian
+125,Lebanon,Arabic
+126,Saint Lucia,English
+127,Liechtenstein,German
+128,Sri Lanka,Sinhalese
+129,Liberia,English
+130,Lesotho,English
+131,Lithuania,Lithuanian
+132,Luxembourg,French
+133,Latvia,Latvian
+134,Libya,Arabic
+135,Morocco,Arabic
+136,Monaco,French
+137,Moldova,Romanian
+138,Montenegro,Serbian
+139,Saint Martin,English
+140,Madagascar,French
+141,Marshall Islands,English
+142,North Macedonia,Macedonian
+143,Mali,French
+144,Myanmar [Burma],Burmese
+145,Mongolia,Mongolian
+146,Macao,Chinese
+147,Northern Mariana Islands,English
+148,Martinique,French
+149,Mauritania,Arabic
+150,Montserrat,English
+151,Malta,Maltese
+152,Mauritius,English
+153,Maldives,Divehi
+154,Malawi,English
+155,Mexico,Spanish
+156,Malaysia,Malay
+157,Mozambique,Portuguese
+158,Namibia,English
+159,New Caledonia,French
+160,Niger,French
+161,Norfolk Island,English
+162,Nigeria,English
+163,Nicaragua,Spanish
+164,Netherlands,Dutch
+165,Norway,Norwegian
+166,Nepal,Nepali
+167,Nauru,English
+168,Niue,English
+169,New Zealand,English
+170,Oman,Arabic
+171,Panama,Spanish
+172,Peru,Spanish
+173,French Polynesia,French
+174,Papua New Guinea,English
+175,Philippines,English
+176,Pakistan,English
+177,Poland,Polish
+178,Saint Pierre and Miquelon,French
+179,Pitcairn Islands,English
+180,Puerto Rico,Spanish
+181,Palestine,Arabic
+182,Portugal,Portuguese
+183,Palau,English
+184,Paraguay,Spanish
+185,Qatar,Arabic
+186,Réunion,French
+187,Romania,Romanian
+188,Serbia,Serbian
+189,Russia,Russian
+190,Rwanda,Rwandi
+191,Saudi Arabia,Arabic
+192,Solomon Islands,English
+193,Seychelles,French
+194,Sudan,Arabic
+195,Sweden,Swedish
+196,Singapore,English
+197,Saint Helena,English
+198,Slovenia,Slovenian
+199,Svalbard and Jan Mayen,Norwegian
+200,Slovakia,Slovak
+201,Sierra Leone,English
+202,San Marino,Italian
+203,Senegal,French
+204,Somalia,Somalia
+205,Suriname,Dutch
+206,South Sudan,English
+207,São Tomé and Príncipe,Portuguese
+208,El Salvador,Spanish
+209,Sint Maarten,Dutch
+210,Syria,Arabic
+211,Swaziland,English
+212,Turks and Caicos Islands,English
+213,Chad,French
+214,French Southern Territories,French
+215,Togo,French
+216,Thailand,Thai
+217,Tajikistan,Tajik
+218,Tokelau,English
+219,East Timor,Portuguese
+220,Turkmenistan,Turkmen
+221,Tunisia,Arabic
+222,Tonga,English
+223,Turkey,Turkish
+224,Trinidad and Tobago,English
+225,Tuvalu,English
+226,Taiwan,Chinese
+227,Tanzania,Swahili
+228,Ukraine,Ukrainian
+229,Uganda,English
+230,U.S. Minor Outlying Islands,English
+231,United States,English
+232,Uruguay,Spanish
+233,Uzbekistan,Uzbek
+234,Vatican City,Italian
+235,Saint Vincent and the Grenadines,English
+236,Venezuela,Spanish
+237,British Virgin Islands,English
+238,U.S. Virgin Islands,English
+239,Vietnam,Vietnamese
+240,Vanuatu,Bislama
+241,Wallis and Futuna,French
+242,Samoa,Samoan
+243,Kosovo,Albanian
+244,Yemen,Arabic
+245,Mayotte,French
+246,South Africa,Afrikaans
+247,Zambia,English
+248,Zimbabwe,English

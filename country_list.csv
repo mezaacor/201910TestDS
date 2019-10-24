@@ -1,0 +1,237 @@
+ID,country_name,country_code_name,country_code,lang_name
+1,Afghanistan,af,93,Pashto
+2,Albania,al,355,Albanian
+3,Algeria,dz,213,Tamazight(Latin)
+4,American Samoa,as,1684,English
+5,Andorra,ad,376,Catalan
+6,Angola,ao,244,Portuguese
+7,Anguilla,ai,1264,English
+8,Antigua & Barbuda,ag,1268,English
+9,Argentina,ar,54,Spanish
+10,Armenia,am,374,Armenian
+11,Aruba,aw,297,Papiamento
+12,Australia,au,61,English
+13,Austria,at,43,German
+14,Azerbaijan,az,994,Azeri (Latin)
+15,Bahamas,bs,1242,English
+16,Bahrain,bh,973,Arabic
+17,Bangladesh,bd,880,Bengali
+18,Barbados,bb,1246,English
+19,Belarus,by,375,Belarusian
+20,Belgium,be,32,French
+21,Belize,bz,501,English
+22,Benin,bj,229,French
+23,Bermuda,bm,1441,English
+24,Bhutan,bt,975,Dzongkha
+25,Bolivia,bo,591,Spanish
+26,Bosnia Herzegovina,ba,387,Serbian (Latin)
+27,Botswana,bw,267,English
+28,Brazil,br,55,Portuguese
+29,British Indian Ocean Territory,io,246,English
+30,British Virgin Islands,vg,1284,English
+31,Brunei Darussalam,bn,673,Malay
+32,Bulgaria,bg,359,Bulgarian
+33,Burkina Faso,bf,226,French
+34,Burma-Myanmar,mm,95,Burmese
+35,Burundi,bi,257,Kirundi
+36,Cambodia,kh,855,Khmer
+37,Cameroon,cm,237,French
+38,Canada,ca,1,Mohawk
+39,Cape Verde,cv,238,Portuguese
+40,Cayman Islands,ky,1345,English
+41,Central African Rep.,cf,236,French
+42,Chad,td,235,French
+43,Chile,cl,56,Spanish
+44,China PR,cn,86,Yi
+45,Christmas Island,cx,6189,English
+46,Colombia,co,57,Spanish
+47,Comoros,km,269,Comorian
+48,Congo,cg,242,French
+49,Cook Islands,ck,682,English
+50,Costa Rica,cr,506,Spanish
+51,Croatia,hr,385,Croatian
+52,Cuba,cu,53,Spanish
+53,Curacao,cw,599,Papiamento
+54,Cyprus,cy,357,Greek
+55,Czech Republic,cz,420,Czech
+56,Denmark,dk,45,Danish
+57,Djibouti,dj,253,French
+58,Dominica,dm,1767,English
+59,Dominican Republic,do,1849,Spanish
+60,DR Congo,cd,243,French
+61,East Timor,tl,670,Portuguese
+62,Ecuador,ec,593,Spanish
+63,Egypt,eg,20,Arabic
+64,El Salvador,sv,503,Spanish
+65,England,gb,800,English
+66,Equatorial Guinea,gq,240,Spanish
+67,Eritrea,er,291,‎Tigrinya‎
+68,Estonia,ee,372,Estonian
+69,Ethiopia,et,251,Amharic
+70,Falkland Islands,fk,500,English
+71,Faroe Islands,fo,298,Faroese
+72,Fiji,fj,679,Fijian
+73,Finland,fi,358,Swedish
+74,France,fr,33,Occitan
+75,French Guiana,gf,594,French
+76,French Polynesia,pf,689,French
+77,FYR Macedonia,mk,389,Macedonian (fyrom)
+78,Gabon,ga,241,French
+79,Gambia,gm,220,English
+80,Georgia,ge,995,Georgian
+81,Germany,de,49,German
+82,Ghana,gh,233,English
+83,Gibraltar,gi,350,English
+84,Greece,gr,30,Greek
+85,Greenland,gl,299,Greenlandic
+86,Grenada,gd,1473,English
+87,Guadeloupe,gp,590,French
+88,Guam,gu,1671,English
+89,Guatemala,gt,502,Spanish
+90,Guinea,gn,224,French
+91,Guinea Bissau,gw,245,Portuguese
+92,Guyana,gy,592,English
+93,Haiti,ht,509,French
+94,Honduras,hn,504,Spanish
+95,Hong Kong,hk,852,Chinese (Traditional) legacy
+96,Hungary,hu,36,Hungarian
+97,Iceland,is,354,Icelandic
+98,India,in,91,Telugu
+99,Indonesia,id,62,Indonesian
+100,Iran,ir,98,Persian
+101,Iraq,iq,964,Arabic
+102,Israel,il,972,Hebrew
+103,Italy,it,39,Italian
+104,Ivory Coast,ci,225,French
+105,Jamaica,jm,1876,English
+106,Japan,jp,81,Japanese
+107,Jordan,jo,962,Arabic
+108,Kazakhstan,kz,7,Kazakh
+109,Kenya,ke,254,Kiswahili
+110,Kiribati,ki,686,English
+111,Korea DPR,kp,850,Korean
+112,Korea Republic,kr,82,Korean
+113,Kosovo,xk,383,Albanian
+114,Kuwait,kw,965,Arabic
+115,Kyrgyzstan,kg,996,Kyrgyz
+116,Laos,la,856,Lao
+117,Latvia,lv,371,Latvian
+118,Lebanon,lb,961,Arabic
+119,Lesotho,ls,266,Sesotho
+120,Liberia,lr,231,English
+121,Libya,ly,218,Arabic
+122,Liechtenstein,li,423,German
+123,Lithuania,lt,370,Lithuanian
+124,Luxembourg,lu,352,Luxembourgish
+125,Macau,mo,853,Chinese (Traditional) legacy
+126,Madagascar,mg,261,Malagasy
+127,Malawi,mw,265,English
+128,Malaysia,my,60,Malay
+129,Maldives,mv,960,Divehi
+130,Mali,ml,223,French
+131,Malta,mt,356,Maltese
+132,Marshall Islands,mh,692,Marshallese
+133,Martinique,mq,596,French
+134,Mauritania,mr,222,Arabic
+135,Mauritius,mu,230,English
+136,Mayotte,yt,262,French
+137,Mexico,mx,52,Spanish
+138,Moldova,md,373,Romanian
+139,Monaco,mc,377,French
+140,Mongolia,mn,976,Mongolian (Cyrillic)
+141,Montenegro,me,382,Serbian (Latin)
+142,Montserrat,ms,1664,English
+143,Morocco,ma,212,Arabic
+144,Mozambique,mz,258,Portuguese
+145,Namibia,na,264,English
+146,Nauru,nr,674,Nauruan
+147,Nepal,np,977,Nepali
+148,Netherlands,nl,31,Frisian
+149,New Caledonia,nc,687,French
+150,New Zealand,nz,64,Maori
+151,Nicaragua,ni,505,Spanish
+152,Niger,ne,227,French
+153,Nigeria,ng,234,Yoruba
+154,Niue,nu,683,Niuean
+155,Norfolk Island,nf,672,English
+156,Northern Ireland,gb,3166-2,English
+157,Northern Mariana Islands,mp,1670,English
+158,Norway,no,47,Sami (Southern)
+159,Oman,om,968,Arabic
+160,Pakistan,pk,92,Urdu
+161,Palau,pw,680,Palau
+162,Palestine,ps,970,Arabic
+163,Panama,pa,507,Spanish
+164,Papua New Guinea,pg,675,Tok Pisin
+165,Paraguay,py,595,Spanish
+166,Peru,pe,51,Spanish
+167,Philippines,ph,63,English
+168,Pitcairn Islands,pn,870,English
+169,Poland,pl,48,Polish
+170,Portugal,pt,351,Portuguese
+171,Puerto Rico,pr,1787,Spanish
+172,Qatar,qa,974,Arabic
+173,Republic of Ireland,ie,353,Irish
+174,Reunion,re,262,French
+175,Romania,ro,40,Romanian
+176,Russia,ru,7,Yakut
+177,Rwanda,rw,250,Kinyarwanda
+178,Saint Helena,sh,290,English
+179,Saint Martin,mf,1599,Dutch
+180,Saint Pierre and Miquelon,pm,508,French
+181,Saint Vincent and the Grenadines,vc,1784,English
+182,Samoa,ws,685,Samoan
+183,San Marino,sm,378,‎Italian
+184,São Tomé & Príncipe,st,239,Portuguese
+185,Saudi Arabia,sa,966,Arabic
+186,Scotland,gb,1224,English
+187,Senegal,sn,221,Wolof
+188,Serbia,rs,381,Serbian (Latin)
+189,Seychelles,sc,248,English
+190,Sierra Leone,sl,232,English
+191,Singapore,sg,65,English
+192,Slovakia,sk,421,Slovak
+193,Slovenia,si,386,Slovenian
+194,Solomon Islands,sb,677,English
+195,Somalia,so,252,Somali
+196,South Africa,za,27,Setswana
+197,South Sudan,ss,211,English
+198,Spain,es,34,Spanish
+199,Sri Lanka,lk,94,Sinhala
+200,St Kitts Nevis,kn,1869,English
+201,St Lucia,lc,1758,English
+202,Sudan,sd,249,Arabic
+203,Suriname,sr,597,Dutch
+204,Swaziland,sz,268,English
+205,Sweden,se,46,Swedish
+206,Switzerland,ch,41,Romansh
+207,Syria,sy,963,Syriac
+208,Taiwan,tw,886,Chinese (Traditional) legacy
+209,Tajikistan,tj,992,Tajik (Cyrillic)
+210,Tanzania,tz,255,Swahili
+211,Thailand,th,66,Thai
+212,Togo,tg,228,French
+213,Tokelau,tk,690,Tokelauan
+214,Tonga,to,676,Tongan
+215,Trinidad & Tobago,tt,1868,English
+216,Tunisia,tn,216,Arabic
+217,Turkey,tr,90,Turkish
+218,Turkmenistan,tm,993,Turkmen
+219,Turks and Caicos Islands,tc,1649,English
+220,Tuvalu,tv,688,Tuvaluan
+221,Uganda,ug,256,‎English
+222,Ukraine,ua,380,Ukrainian
+223,United Arab Emirates,ae,971,Arabic
+224,United Kingdom,gb,44,Welsh
+225,United States,us,1,English
+226,Uruguay,uy,598,Spanish
+227,Uzbekistan,uz,998,Uzbek (Latin)
+228,Vanuatu,vu,678,English
+229,Venezuela,ve,58,Spanish
+230,Vietnam,vn,84,Vietnamese
+231,Virgin Islands,vi,1340,English
+232,Wales,Gb-wls,3166-2,English
+233,Wallis and Futuna,wf,681,‎French
+234,Yemen,ye,967,Arabic
+235,Zambia,zm,260,English
+236,Zimbabwe,zw,263,English
